@@ -1,0 +1,14 @@
+[19-Oct-2023 09:58:56 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uuccknpg/public_html/class/conexao.php on line 2
+[19-Oct-2023 09:58:56 America/Sao_Paulo] PHP Notice:  Undefined index: ed in /home/uuccknpg/public_html/class/salvar-config.php on line 50
+[19-Oct-2023 09:59:05 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uuccknpg/public_html/class/conexao.php on line 2
+[19-Oct-2023 09:59:05 America/Sao_Paulo] PHP Notice:  Undefined index: ed in /home/uuccknpg/public_html/class/salvar-config.php on line 50
+[19-Oct-2023 09:59:14 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uuccknpg/public_html/class/conexao.php on line 2
+[19-Oct-2023 09:59:14 America/Sao_Paulo] PHP Notice:  Undefined index: ed in /home/uuccknpg/public_html/class/salvar-config.php on line 50
+[19-Oct-2023 09:59:21 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uuccknpg/public_html/class/conexao.php on line 2
+[19-Oct-2023 09:59:21 America/Sao_Paulo] PHP Notice:  Undefined index: ed in /home/uuccknpg/public_html/class/salvar-config.php on line 50
+[19-Oct-2023 09:59:31 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uuccknpg/public_html/class/conexao.php on line 2
+[19-Oct-2023 09:59:31 America/Sao_Paulo] PHP Notice:  Undefined index: ed in /home/uuccknpg/public_html/class/salvar-config.php on line 50
+[19-Oct-2023 09:59:39 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uuccknpg/public_html/class/conexao.php on line 2
+[19-Oct-2023 09:59:39 America/Sao_Paulo] PHP Notice:  Undefined index: ed in /home/uuccknpg/public_html/class/salvar-config.php on line 50
+[19-Oct-2023 09:59:47 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/uuccknpg/public_html/class/conexao.php on line 2
+[19-Oct-2023 09:59:47 America/Sao_Paulo] PHP Notice:  Undefined index: ed in /home/uuccknpg/public_html/class/salvar-config.php on line 50
